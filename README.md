@@ -17,5 +17,5 @@
 - node server.js (para ejecutar el backend)
 ### 1. Clona este repositorio:
 ```bash
-git clone https://github.com/tu_usuario/task.git
+git clone https://github.com/tu_usuario/app-task.git
 cd app-task
